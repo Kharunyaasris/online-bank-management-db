@@ -1,0 +1,2 @@
+-- Table definitions for Bank, Branch, Customer, AccountType, LoanType,
+-- Account, Loan, CustomerAccount, and CustomerLoan will be moved here.
