@@ -1,0 +1,1 @@
+-- Stored procedures such as spTransferFunds and spAddCustomer will be moved here.
