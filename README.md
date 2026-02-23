@@ -1,4 +1,5 @@
-Online Bank Management Database System
+# Online Bank Management Database System
+
 A relational database designed for an online banking platform, focusing on secure transactions, data integrity, and analytics-friendly structure. The system models real-world banking entities such as banks, branches, customers, accounts, and loans, and embeds core business rules directly in the database layer.
 ​
 
@@ -292,3 +293,4 @@ Expand analytics views for credit risk scoring or delinquent loan detection.
 ​
 
 Connect this database to a frontend or API layer for a full-stack online banking prototype.
+
