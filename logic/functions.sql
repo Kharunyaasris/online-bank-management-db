@@ -1,0 +1,1 @@
+-- Functions such as fnCalculateMonthlyInterest and fnGetCustomerTotalBalance will be moved here.
