@@ -1,0 +1,2 @@
+-- INSERT statements for sample banks, branches, customers, account types,
+-- loan types, accounts, loans, CustomerAccount, and CustomerLoan.
