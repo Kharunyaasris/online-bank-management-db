@@ -1,0 +1,1 @@
+-- Foreign keys, unique constraints, and indexes for all tables will be moved here.
